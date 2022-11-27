@@ -1,8 +1,11 @@
 ---
-title: "The devil is in the details: landscape features are insufficient to explain distribution patterns of non-native fishes in north Patagonian streams"
+title: 'The devil is in the details: landscape features are insufficient to explain
+  distribution patterns of non-native fishes in north Patagonian streams'
 author: "Mailén E. Lallement, Eduardo E. Zattara"
 date: "2/7/2022"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
